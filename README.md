@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [3ForLife](https://3forlife.fr)
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 All of my projects are available at [(https://linkr.bio/souki)]([Soon](https://linkr.bio/souki))
 
 - 📫 How to reach me **soukimailpro@gmail.com**
 
